@@ -13,8 +13,7 @@ biases of these ERC systems persist and remain to be addressed
 by assessing their robustness. This study presents a methodology
 to analyze the robustness and bias of an ERC system by including
 complexities of user input with varying English language profi-
-ciency. We develop a novel, hybrid approach to create text per-
-turbations by combining natural language generation techniques
+ciency. We develop a novel, hybrid approach to create text perturbations by combining natural language generation techniques
 with rule-based constraints to simulate language proficiency
 levels. Specifically, we utilize the capabilities of GPT-3 to generate
 text modifications based on language proficiency characteristics
