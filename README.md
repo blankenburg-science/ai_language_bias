@@ -1,4 +1,4 @@
-## This repository contains simulation scripts of the following published study
+### This repository contains simulation scripts of the following published study
 
 # Robustness Analysis uncovers Language Proficiency Bias in Emotion Recognition Systems
 
